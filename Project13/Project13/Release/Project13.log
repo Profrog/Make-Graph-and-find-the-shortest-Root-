@@ -1,0 +1,10 @@
+﻿  MainSource.cpp
+MainSource.cpp(489): warning C4101: 'i': unreferenced local variable
+MainSource.cpp(550): warning C4101: 'i': unreferenced local variable
+  Generating code
+  7 of 241 functions ( 2.9%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Project13.vcxproj -> D:\Workspace\forC++\Project13\Release\Project13.exe
+  Project13.vcxproj -> D:\Workspace\forC++\Project13\Release\Project13.pdb (Full PDB)

@@ -1,0 +1,5 @@
+﻿  MainSource.cpp
+d:\workspace\forc++\project13\project13\mainsource.cpp(451): warning C4101: 'i': unreferenced local variable
+d:\workspace\forc++\project13\project13\mainsource.cpp(512): warning C4101: 'i': unreferenced local variable
+  Project13.vcxproj -> D:\Workspace\forC++\Project13\Debug\Project13.exe
+  Project13.vcxproj -> D:\Workspace\forC++\Project13\Debug\Project13.pdb (Partial PDB)
